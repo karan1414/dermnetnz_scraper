@@ -15,3 +15,9 @@ and saving it in an csv file and download all the related thumbnails and save it
 # Code output.
 - folder with name thumbnail_images in same directory with thumbnail images.
 - csv file named 'dermNet_scraped_data.csv' storing name of diseases, urls associated with diseases and icon image urls.
+
+
+# Coding problem:
+
+- Run coding_problem.py using terminal.
+- Enter value for n.
