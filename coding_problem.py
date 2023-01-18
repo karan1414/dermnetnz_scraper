@@ -11,7 +11,7 @@ def mystery(n):
     v = 0
     for i in (range(1, n+1)):
         v += int(str(i) * i)
-        # print(temp_n)
+        
     return v
 
 n = int(input("Enter a value for n: \t"))
